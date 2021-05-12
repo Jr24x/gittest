@@ -1,9 +1,6 @@
 <p align="center">  
 <img src="https://carguyjake.weebly.com/uploads/1/3/0/9/130978532/circle-cropped_orig.png">
 </p>
-    <p align="center">
-  <img src="https://discord.c99.nl/widget/theme-4/765209046944579594.png" />
-</p>
 <p align="center">
 "I dont care what you do with your computer, just dont have the FBI knocking on the front door" -Jennifer Walter
 <p align="center">
