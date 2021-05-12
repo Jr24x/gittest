@@ -2,12 +2,11 @@
 <img src="https://carguyjake.weebly.com/uploads/1/3/0/9/130978532/circle-cropped_orig.png">
 </p>
     <p align="center">
-  <img src="https://discord.c99.nl/widget/theme-4/709827684888215582.png" />
+  <img src="https://discord.c99.nl/widget/theme-1/JW#1217.png" />
 </p>
 <p align="center">
-Currently learning JavaScript
+"I dont care what you do with your computer, just dont have the FBI knocking on the front door" -Jennifer Walter
 <p align="center">
-    <a href="https://discord.gg/4nSYqZ8KAA">Discord Server</a>
 
 <details>
   <summary>Extra</summary>
